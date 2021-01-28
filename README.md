@@ -43,13 +43,9 @@ Version|Date|Comments
   - **npm install**
   - **gulp serve**
 
-> Include any additional steps as needed.
-
 ## Features
 
-Description of the extension that expands upon high-level summary above.
-
-This extension illustrates the following concepts:
+This webpart illustrates the following concepts:
 
 - React Functional Components
 - React Hooks
